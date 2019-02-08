@@ -1,5 +1,5 @@
 <div id="footer">
-  <div class="shell"> <span>&copy; <?php echo date("o");?>- <a href="http://www.hatinco.com/">HAT Inc.</a></span></div>
+  <div class="shell"> <span>&copy; <?php echo date("o");?>- <a href="http://www.hatinco.com/">HAT Inc. 2019</a></span></div>
 </div>
 </body>
 </html>
